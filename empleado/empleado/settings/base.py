@@ -1,4 +1,3 @@
-
 # from pathlib import Path
 from unipath import Path as Ph
 
@@ -24,7 +23,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    # local apps
+    #  local app
     'applications.departamento',
     'applications.persona',
     'applications.home',

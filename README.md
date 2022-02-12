@@ -1,1 +1,1 @@
-# Proyeto Empleado con Django
+# Curso Empleado con Django
